@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FeedbackDroid</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+	
+    <string name="button_send_feeback">Send feedback</string>
+    <string name="button_send_feeback_review">Review email</string>
+    
+    <string name="feed_back_form_label">Would you like to suggest a new feature or report a bug? Ping us back:</string>
+    <string name="feed_back_form_hint">Your comments</string>
+    <string name="feed_back_form_email_label">If you want to receive an answer from us, write your email</string>
+    <string name="feed_back_form_email_empty_title">No email?</string>
+    <string name="feed_back_form_email_hint">Your email</string>
+    <string name="feed_back_form_title">Send us your feedback</string>
+    <string name="feed_back_form_no_text">Text can not be empty</string>
+    <string name="feed_back_form_wrong_mail_format">The email format is not correct</string>
+    <string name="feed_back_sending">Sending feedback&#8230;</string>
+    
+    <string name="feed_back_form_radio_bug">Bug</string>
+    <string name="feed_back_form_radio_idea">Idea</string>
+    <string name="feed_back_form_radio_question">Question</string>
+    
+    <string name="feed_back_send_thanks">Thanks for your feedback</string>
+    <string name="feed_back_title">Feedback</string>
+    <string name="feed_email_subject">App feedback</string>
+    
+    <string name="button_cancel">Cancel</string>
+    
+    <string name="user_email_set">User email:</string>
+    <string name="user_email_not_set">User email: Not set</string>
+</resources>
