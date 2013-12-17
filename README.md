@@ -4,6 +4,7 @@ Based on this idea http://stackoverflow.com/questions/2020088/sending-email-in-a
 
 To use it simply:
 
+```
 //Create your configuration email properties
 //Configuration configuration = new Configuration(
                         "your_gmail_account_to_receive_email@gmail.com", "your_gmail_account_to_send_email@gmail.com",
@@ -11,4 +12,4 @@ To use it simply:
 
 AlertDialogFeedBack newFragment = AlertDialogFeedBack.newInstance(configuration);
 newFragment.show(fm, "tagDialog");
-                
+```             
