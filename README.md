@@ -2,6 +2,9 @@ FeedbackAndroid
 ===============
 Based on this idea http://stackoverflow.com/questions/2020088/sending-email-in-android-using-javamail-api-without-using-the-default-built-in-a I created a small android library that allows the user to send feedback with a form using Javamail instead of the default email client on the phone. You need to configure a gmail account in order to send the emails.
 
+
+![alt tag](http://i.imgur.com/Nu6zkV0.png)
+
 How to use it
 ==============
 
