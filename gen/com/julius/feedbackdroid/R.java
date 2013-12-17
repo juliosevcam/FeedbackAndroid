@@ -42,9 +42,8 @@ public final class R {
         public static int txtUserEmail=0x7f060006;
     }
     public static final class layout {
-        public static int activity_main=0x7f030000;
-        public static int dialog_feedback=0x7f030001;
-        public static int dialog_feedback_no_email=0x7f030002;
+        public static int dialog_feedback=0x7f030000;
+        public static int dialog_feedback_no_email=0x7f030001;
     }
     public static final class menu {
         public static int main=0x7f090000;
